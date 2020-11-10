@@ -6,4 +6,5 @@ console.log("This my new line");
 =======
 
 // comment form my mac at 8:45pm, 9:02pm
->>>>>>> d117bd2e74b0f384e05a4560e020efac865459b7
+>>>>>>> d117bd2e74b0f384e05a4560e020efac86545
+
